@@ -132,7 +132,22 @@ Ready to transform how you understand your data? Clone this repo, follow the set
 
 ---
 
+![image](https://github.com/Cesarandres91/Python-Data-Profiling-Quick-Easy/assets/102868086/57f38228-891e-49d9-857c-d3779e866c84)
+
+
 Feel free to contribute to this project if you have any cool ideas or improvements. Let's make data profiling fun for everyone!
 
 Happy Profiling! 🎉
+
+
+## Contribution
+To contribute to the project, please follow these steps:
+- **Fork the Repository**: Fork the project to your GitHub account.
+- **Create a Branch**: Create a branch for your changes.
+- **Make Your Changes**: Add or improve functionalities.
+- **Submit a Pull Request**: Submit a PR to integrate your changes into the main repository.
+
+## License
+This project is licensed under the MIT License - see the `LICENSE` file for more details.
+
 
