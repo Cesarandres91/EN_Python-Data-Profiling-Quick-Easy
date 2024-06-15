@@ -1,16 +1,12 @@
 # Data_profiling_fastandeasy_python
 Learning and developing data projects
 
-Hi there 👋
-I'm Cesar Torres, a Data specialist, I'm excited about learning new things and contributing to the data comunity.
+## Hi there 👋, I'm Cesar (@Cesarandres91)
 
-🚀About Me:
-
-🔭 I’m currently interested in data analysis and data science  projects, such as machine learning, optimization, MLOps and statistics.
-
-📝 I like to automate tasks and try to facilitate data collection and traceability.
-
-💻 I'm currently working on data quality and data governance projects.
+- 👀 I’m interested in data quality, data science, and data governance.
+- 🌱 I’m currently improving my skills in data science.
+- 💞️ I’m looking to collaborate on data governance and data quality projects.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andreschile/)
 
 
 # Data Profiling Wizard 🧙‍♂️✨
