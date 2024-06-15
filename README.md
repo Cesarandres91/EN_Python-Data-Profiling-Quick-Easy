@@ -106,10 +106,8 @@ Here's a sneak peek at what the data profile looks like:
 | Gender          | 100           | 5     | 2        | Male      | ... |
 
 🚀 Here is a real example with spotify data from Kaggle: https://www.kaggle.com/datasets/asaniczka/top-spotify-songs-in-73-countries-daily-updated
-You can find the example of this profiling in this repository with the name 
-```
-profiling_data_spotify.csv
-```
+
+You can find an example of this profiling in this repository under the name: [profiling_data_spotify.csv]
 
 
 ![image](https://github.com/Cesarandres91/Data_profiling_fastandeasy_python/assets/102868086/1af2a3ce-3c72-4f1e-882f-1764c2e64d50)
