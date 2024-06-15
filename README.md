@@ -1,4 +1,4 @@
-# Data_profiling_fastandeasy_python
+# Python Data Profiling: Quick & Easy
 Learning and developing data projects
 
 ## Hi there 👋, I'm Cesar (@Cesarandres91)
