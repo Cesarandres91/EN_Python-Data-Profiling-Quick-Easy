@@ -51,10 +51,6 @@ def data_profiling(df):
     profile_df = pd.DataFrame(profile)
     return profile_df
     
-# Usage example:
-# CSV file name
-# Load your DataFrame
-# df = pd.read_csv(file_name)
 
 # Generate data profiling
 profile_df = data_profiling(df)
